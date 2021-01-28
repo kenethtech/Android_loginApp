@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933573741011",
+    "firebase_url": "https://kenapp-8ae75.firebaseio.com",
+    "project_id": "kenapp-8ae75",
+    "storage_bucket": "kenapp-8ae75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933573741011:android:6ae000bd7753c646114726",
+        "android_client_info": {
+          "package_name": "com.kenmure.kenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933573741011-cjj5paup20b07m89avek24sf1f3of06o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenmure.kenapp",
+            "certificate_hash": "b7e88938da7d6eb912bd91263b6fdc7c9e4aed6c"
+          }
+        },
+        {
+          "client_id": "933573741011-lsjt9vcfbn2ffovobjuebnh3lkvav7ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-DTronMlo8VLBcV-kp5DVIY66OojlAec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933573741011-lsjt9vcfbn2ffovobjuebnh3lkvav7ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
